@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#include<conio.h>
 
     int main(){
         int num, guess, nguesses=1;
@@ -19,6 +18,6 @@
             printf("You Guessed it in %d attempts\n",nguesses);
             }nguesses++;
         }while(guess!=num); 
-        getch();   
+
         return 0;
 }
