@@ -1,2 +1,2 @@
-# First_C_Project
+# Number Guessing Game
 Number Guessing Game
